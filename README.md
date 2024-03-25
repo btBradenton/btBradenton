@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @btBradenton
+- 👋 Hi, I’m @btBradenton, a pirate with no legs who retired to south of Gasparilla down on the river.
 - 👀 I’m interested in economic history, systems, coding & society.
 - 🌱 I’m currently learning coldfusion on mac
 - 💞️ I’m looking to collaborate on artificial intelligence
